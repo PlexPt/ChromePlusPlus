@@ -22,5 +22,7 @@
 
 - # [Secure Shell App](https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo)  Chrome中开启ssh
 
+- # [视频倍数播放](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
+
 
 
